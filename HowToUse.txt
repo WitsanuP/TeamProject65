@@ -5,7 +5,7 @@
  *คูณมีสามารถ #include"witsanu.h"ได้
  *
  *2.setup ใน void setup โดยใช้ function gost();
- *Ex.
+ *การใช้ตามด้านล่าง
  *void setup(){
  * gost();
  *}
