@@ -12,10 +12,10 @@ witsanu	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 senddata	KEYWORD2
-gost	KEYWORD2
-Clear	KEYWORD2
-Blend285	KEYWORD2
-CaptainMorgan	KEYWORD2
+gost  KEYWORD2
+Clear KEYWORD2
+Blend285  KEYWORD2
+CaptainMorgan KEYWORD2
 JohnnyWalker  KEYWORD2
 SoSad	KEYWORD2
 
